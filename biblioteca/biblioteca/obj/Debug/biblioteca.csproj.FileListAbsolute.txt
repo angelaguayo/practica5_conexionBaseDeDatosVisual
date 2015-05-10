@@ -1,0 +1,10 @@
+C:\Users\Josue01\Documents\SharpDevelop Projects\biblioteca\biblioteca\bin\Debug\biblioteca.exe.config
+C:\Users\Josue01\Documents\SharpDevelop Projects\biblioteca\biblioteca\bin\Debug\biblioteca.exe
+C:\Users\Josue01\Documents\SharpDevelop Projects\biblioteca\biblioteca\bin\Debug\biblioteca.pdb
+C:\Users\Josue01\Documents\SharpDevelop Projects\biblioteca\biblioteca\obj\Debug\biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Josue01\Documents\SharpDevelop Projects\biblioteca\biblioteca\obj\Debug\biblioteca.MainForm.resources
+C:\Users\Josue01\Documents\SharpDevelop Projects\biblioteca\biblioteca\obj\Debug\biblioteca.csproj.GenerateResource.Cache
+C:\Users\Josue01\Documents\SharpDevelop Projects\biblioteca\biblioteca\obj\Debug\biblioteca.exe
+C:\Users\Josue01\Documents\SharpDevelop Projects\biblioteca\biblioteca\obj\Debug\biblioteca.pdb
+C:\Users\Josue01\Documents\SharpDevelop Projects\biblioteca\biblioteca\obj\Debug\biblioteca.mostrar.resources
+C:\Users\Josue01\Documents\SharpDevelop Projects\biblioteca\biblioteca\obj\Debug\biblioteca.agregarLibro.resources
